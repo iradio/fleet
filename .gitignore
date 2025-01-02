@@ -1,0 +1,6 @@
+jackett/downloads/
+jackett/data/Jackett/log*.txt
+torrserver/cache/
+jackett/data/Jackett/DataProtection/
+torrserver/config/config.db
+jackett/data/Jackett/Indexers/
